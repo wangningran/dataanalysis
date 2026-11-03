@@ -1,0 +1,11 @@
+# 运行时生成的文件
+market.db
+daily_report_*.xlsx
+pipeline.log
+cron.log
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
