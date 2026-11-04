@@ -9,10 +9,10 @@
 | 时间 | 部分 | 主要内容 |
 |---|---|---|
 | 0–5 分钟 | 摸底 | 目标与问题 |
-| 5–25 分钟 | pandas / numpy 进阶 | 数据体检、组内填充与未来函数、长宽表转换、收益率、SQL 窗口函数对照、`resample`、`merge` 常见坑、向量化 |
-| 25–40 分钟 | 可视化 | matplotlib 净值与回撤、收益率分布与滚动波动率、plotly 交互 K 线 |
-| 40–52 分钟 | 自动化取数与处理 | 日志、重试、增量更新、幂等写入、Excel 日报与异常提醒、cron / GitHub Actions 定时运行 |
-| 52–60 分钟 | 练习与总结 | 课后练习、项目写法示例 |
+| 5–30 分钟 | pandas / numpy | **基本概念：** ndarray 与向量化、广播、Series / DataFrame / Index、`loc` / `iloc`、清洗 / 处理 / 聚合与 split-apply-combine<br>**进阶：** 数据体检、组内填充与未来函数、收益率、SQL 窗口函数对照、`resample` 等 |
+| 30–42 分钟 | 可视化 | **基本概念：** matplotlib 的 Figure / Axes、plotly express 与 graph_objects<br>**实战：** 净值与回撤、交互 K 线 |
+| 42–55 分钟 | 自动化取数与处理 | **基本概念：** API 与 JSON 解析、ETL、函数化与参数化<br>**实战：** 日志、重试、增量更新、幂等写入、Excel 日报、cron / GitHub Actions 定时运行 |
+| 55–60 分钟 | 练习与总结 | 课后练习、项目写法示例 |
 
 附录是 pandas 常用操作速查表和面试常问问题。
 
